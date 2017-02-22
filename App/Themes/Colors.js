@@ -1,7 +1,10 @@
 // @flow
 
 const colors = {
-  background: '#455A64',
+  background: '#F5F5F5',
+  navbar: '#364F6B',
+  button: '#3FC1C9',
+  white: 'white',
   clear: 'rgba(0,0,0,0)',
   transparent: 'rgba(0,0,0,0)',
   silver: '#455A64',

@@ -15,6 +15,7 @@ export default StyleSheet.create({
   },
   title: {
     fontSize: Fonts.size.h1,
+    color: '#3FC1C9'
   },
   label: {
     fontSize: Fonts.size.h6,

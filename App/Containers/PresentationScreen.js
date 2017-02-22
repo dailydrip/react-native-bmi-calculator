@@ -91,11 +91,15 @@ export default class PresentationScreen extends React.Component {
                 value={this.state.height}
               />
 
-          </View>
-
           <RoundedButton onPress={this.calculate}>
             Calculate
           </RoundedButton>
+
+          </View>
+
+
+
+
 
           <View style={styles.centered}>
             {bmiText}

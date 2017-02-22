@@ -7,10 +7,10 @@ export default {
     flex: 1
   },
   navBar: {
-    backgroundColor: Colors.background
+    backgroundColor: Colors.navbar
   },
   title: {
-    color: Colors.snow
+    color: Colors.white
   },
   leftButton: {
     tintColor: Colors.snow
